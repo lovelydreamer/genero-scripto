@@ -26,5 +26,6 @@ cat nmap.txt
 # github dork
 # google dork
 
-# -w 
+# -w (web)
 # gobuster dir -u http://$TARGET_IP -w /usr/...wordlist
+# curl 
